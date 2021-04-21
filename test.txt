@@ -1,0 +1,3 @@
+导出mvn的依赖jar包：
+dependency:copy-dependencies -DoutputDirectory=lib
+lib是保存的路径
